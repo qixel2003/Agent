@@ -1,0 +1,163 @@
+Opdracht Taalmodel
+, Opdracht ,  Verplicht
+Vervaldatum op 3 mei 2026 23:00
+Eindigt op 3 mei
+Niet ingediend
+Ga naar: Indiening
+Instructies
+Je gaat een chatbot bouwen naar aanleiding van les 1 t/m 4. Hier lever je in:
+
+
+De screencast van je project
+De url van je github repository
+Lees de cursushandleiding voor de volledige opdrachtbeschrijving en beoordeling.
+
+Evaluatiecriteria:
+Taalmodel Rubric
+Criteria
+Beginner
+Op niveau
+Gevorderd
+Expert
+Criteriumscore
+Begrip van techniek
+10 punten
+Basis setup met ENV file en langchain werkend in een node.js bestand. Kan prompt sturen vanuit node.
+
+30 punten
+Node express server met POST request toegepast.
+
+Frontend kan prompt sturen. Chat wordt getoond in interface met tekst ballonnetjes.
+
+40 punten
+Submit button inactief tijdens verwerken prompt.
+
+Markdown uit taalmodel wordt correct getoond.
+
+50 punten
+Één van onderstaande toegepast:
+•    Streaming
+•    Website staat live,
+•    Spraak + spraakherkenning
+
+Score van Begrip van techniek,/ 50
+Begrip van taalmodellen
+10 punten
+Je hebt de Brightspace opdracht "Bouw je taalmodel" gemaakt en ingeleverd.
+
+Je hebt de Brightspace opdracht "Use Case" gemaakt en ingeleverd.
+
+30 punten
+De user interface communiceert helder de use case.
+
+De system prompt definieert gedrag en tone of voice dat past bij de use case.
+
+40 punten
+De node server houdt een chat history en token usage bij.
+
+50 punten
+Één van onderstaande toegepast:
+•    Chat history per user
+•    Het taalmodel geeft JSON structured output.
+•    Context Engineering
+
+Score van Begrip van taalmodellen,/ 50
+Totaal
+Score van Taalmodel Rubric,/ 100
+Algehele score
+Onvoldoende
+0 punten minimaal
+Beginner
+40 punten minimaal
+Op niveau
+55 punten minimaal
+Gevorderd
+75 punten minimaal
+Expert
+90 punten minimaal
+
+
+
+
+
+Opdracht Agent
+, Opdracht ,  Verplicht
+Vervaldatum op 3 mei 2026 23:00
+Eindigt op 3 mei
+Niet ingediend
+Ga naar: Indiening
+Instructies
+Je gaat een agent bouwen naar aanleiding van les 5 t/m 8. Hier lever je in:
+
+
+De screencast van je project
+De url van je github repository
+Lees de cursushandleiding voor de volledige opdrachtbeschrijving en beoordeling.
+
+Evaluatiecriteria:
+Agent Rubric
+Criteria
+Beginner
+Op niveau
+Gevorderd
+Expert
+Criteriumscore
+Werken met Documenten
+10 punten
+Je hebt de langchain setup werkend voor het opsplitsen en embedden van een tekstdocument. (Dit document is relevant voor de use case).
+
+30 punten
+Je kan de document data opslaan in een vectordatabase.
+
+Je agent kan via een prompt informatie uit de database vinden.
+
+40 punten
+Je hebt een grotere hoeveelheid tekst opgeslagen (min. 10 pagina's) uit meerdere documenten.
+Vanuit node.js check je of de agent in het juiste document heeft gezocht.
+
+50 punten
+Één van onderstaande toegepast:
+•    Je toont aan de eindgebruiker de bron van het AI antwoord.
+•    De applicatie staat live online.
+
+Score van Werken met Documenten,/ 50
+Werken met Tools
+10 punten
+Je hebt de Brightspace opdracht "Use Case Agent" gemaakt en ingeleverd.
+
+Je hebt de basic setup in node werkend, waarbij je agent een demo tool kan aanroepen.
+
+30 punten
+De agent kan vanuit de frontend aangeroepen worden.
+
+Je agent gebruikt minimaal één tool waarvoor credentials uit de ENV file gebruikt worden.
+
+De system prompt bevat uitleg voor de tool. De tool past bij de use case.
+
+40 punten
+Er zijn meerdere tools waar de agent gebruik van kan maken. Dit past bij de use case.
+
+De agent gebruikt checkpointer memory.
+
+In de node backend check je of de tools correct worden aangeroepen.
+
+50 punten
+Één van onderstaande toegepast:
+•    De eindgebruiker kan zien welke  tools zijn aangeroepen.
+•    Je tool geeft andere content terug dan tekst (bv. afbeelding, 3D model, grafiek, excel sheet, of audio).
+•    Chat history per user, en chat history wordt opgeslagen.
+
+Score van Werken met Tools,/ 50
+Totaal
+Score van Agent Rubric,/ 100
+Algehele score
+Onvoldoende
+0 punten minimaal
+Beginner
+40 punten minimaal
+Op niveau
+55 punten minimaal
+Gevorderd
+75 punten minimaal
+Expert
+90 punten minimaal
